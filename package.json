@@ -1,0 +1,22 @@
+{
+  "name": "skeleton-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "core": "git@bitbucket.org:nguyenhoangvi000/core.git",
+    "app1": "git@bitbucket.org:nguyenhoangvi000/app1.git",
+    "app2": "git@bitbucket.org:nguyenhoangvi000/app2.git",
+    "p": "git@bitbucket.org:nguyenhoangvi000/p.git",
+    "q": "git@bitbucket.org:nguyenhoangvi000/q.git",
+    "r": "git@bitbucket.org:nguyenhoangvi000/r.git",
+    "postinstall-build": "^5.0.1",
+    "tslint": "^5.5.0"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vi Hoang",
+  "license": "ISC"
+}
